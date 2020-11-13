@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "29527843788",
+    "firebase_url": "https://gameshop-cf5c1.firebaseio.com",
+    "project_id": "gameshop-cf5c1",
+    "storage_bucket": "gameshop-cf5c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29527843788:android:c3ad0ae54a2e07f3b63369",
+        "android_client_info": {
+          "package_name": "com.example.GameShop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29527843788-gs88lmma3hg8of2rmpbk4p9s956b717a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwMOwnMStibj-G0OHzscXpw69wBbwsX4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29527843788-gs88lmma3hg8of2rmpbk4p9s956b717a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29527843788:android:cb2926563a563a26b63369",
+        "android_client_info": {
+          "package_name": "com.example.gameshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29527843788-gs88lmma3hg8of2rmpbk4p9s956b717a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwMOwnMStibj-G0OHzscXpw69wBbwsX4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29527843788-gs88lmma3hg8of2rmpbk4p9s956b717a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
